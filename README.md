@@ -22,4 +22,5 @@ A robust, Clean Code, C# console application built for managing a bookstore. Thi
 *(أضف هنا صور شاشة البرنامج)*
 
 **1. Main Menu:**
-![Main Menu](menu.jpg)
+<img width="1366" height="728" alt="menu" src="https://github.com/user-attachments/assets/364d51bb-ccb8-40dc-85e5-ffc1f01eefae" />
+
